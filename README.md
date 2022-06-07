@@ -1,7 +1,10 @@
 # Monster Catcher
- Movement:
- WASD to move.
- SPACE to warp to the safe spot at the bottom of the screen
+Catch the monster that the game chooses you to chase and catch.
+Points for catching each monster deminishes over time. Be sure to be quick!
+
+ ## Movement:
  
- Objective:
- Catch the monster that the game chooses you to chase and catch
+ WASD to move.
+ 
+ SPACE to warp to the safe spot at the bottom of the screen.
+ 

@@ -1,3 +1,5 @@
+"""Credit for monster assets to:  http://www.blog.spoongraphics.co.uk"""
+
 import random
 
 import pygame

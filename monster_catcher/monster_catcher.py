@@ -1,7 +1,6 @@
 """Credit for monster assets to:  http://www.blog.spoongraphics.co.uk"""
 
 import random
-
 import pygame
 
 pygame.init()
@@ -345,7 +344,8 @@ while running:
                 my_player.warp()
 
     #Fill the display
-    screen.fill((0, 0, 0))
+    BLACK = (0, 0, 0)
+    screen.fill(BLACK)
 
     #Update and draw sprite groups
     my_player_group.update()
